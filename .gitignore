@@ -1,0 +1,10 @@
+key.txt
+cache/
+dl/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+.claude
