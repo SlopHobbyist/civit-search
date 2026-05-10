@@ -27,6 +27,7 @@ A small command-line tool for searching [Civitai](https://civitai.com) from the 
 ### Exclusive Feature
 - Training-data-only filter: `--training-data-only` — only show models whose version includes a training-data archive. This includes models trained with the on-site trainer, even if the user selected to hide it! Use responsibly, and don't tell Civitai!
 
+> **Note**: Use a separate tool like civit-dl to actually download models. https://github.com/SlopHobbyist/civit-dl
 
 ### How It Works
 
